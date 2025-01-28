@@ -128,5 +128,4 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.preprocessing import StandardScaler
 
-if page == "Model Training and Evaluation":
-    st.title("🛠️ Model Training and Evaluation")
+
