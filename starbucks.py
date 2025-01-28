@@ -112,8 +112,7 @@ if page == "Extras":
               Made with white mocha instead of regular mocha
               Add raspberry syrup (2 pumps tall, 3 grande, 4 venti)
 
-      st.subheader("Watch a YouTube Video")
-    st.video("https://www.youtube.com/watch?v=dQpXtnaaYdk")         
+      
         """
     )
 
